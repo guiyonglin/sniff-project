@@ -1,12 +1,11 @@
 {
   "private": true,
-  "name": "rollup-typescript-react-starter",
+  "name": "sniff-project",
   "version": "1.0.0",
-  "repository": "git@github.com:saltyshiomix/rollup-typescript-react-starter.git",
-  "author": "Shiono Yoshihide <shiono.yoshihide@gmail.com>",
+  "repository": "git@github.com:guiyonglin/sniff-project.git",
+  "author": "guiyonglin",
   "license": "MIT",
   "scripts": {
-    "dev": "rollup -c -w",
     "build": "rimraf pack && cross-env NODE_ENV=production rollup -c",
     "start": "cross-env PORT=3777 craco start"
   },
