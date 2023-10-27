@@ -16,10 +16,12 @@ export default {
     name: 'marketing',
     global: {
       react: 'React',
+      'react-dom': 'ReactDom'
     }
   },
   external: [
     'react',
+    'react-dom'
   ],
   plugins: [
     replace({

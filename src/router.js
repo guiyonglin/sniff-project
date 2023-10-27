@@ -5,8 +5,8 @@ export const routers = [
     {
         path: '/marketing/home',
         title: 'dev-login',
-        component: () => (
-            <Home />
+        component: (props) => (
+            <Home {...props} />
         )
     },
     {
