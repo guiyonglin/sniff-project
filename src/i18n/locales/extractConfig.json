@@ -1,5 +1,10 @@
 {
-    "common": [],
+    "common": [
+        {
+            "path": "src/common",
+            "name": "公共模块"
+        }
+    ],
     "pages": [
         {
             "path": "src/pages/home",

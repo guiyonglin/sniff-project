@@ -1,5 +1,16 @@
 {
-    "src/pages/home": {},
-    "src/pages/banner": {},
-    "src/pages/dashboard": {}
+    "src/pages/home": {
+        "我是一个新的页面": ""
+    },
+    "src/pages/banner": {
+        "向左": "",
+        "向右": ""
+    },
+    "src/pages/dashboard": {},
+    "src/common": {
+        "首页": "",
+        "看板": "",
+        "广告": "",
+        "我是底部的": ""
+    }
 }
