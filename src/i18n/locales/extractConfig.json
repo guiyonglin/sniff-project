@@ -1,0 +1,20 @@
+{
+    "common": [],
+    "pages": [
+        {
+            "path": "src/pages/home",
+            "urlPathname": "/home",
+            "name": "首页"
+        },
+        {
+            "path": "src/pages/banner",
+            "urlPathname": "/banner",
+            "name": "商品列表"
+        },
+        {
+            "path": "src/pages/dashboard",
+            "urlPathname": "/dashboard",
+            "name": "模板"
+        }
+    ]
+}
