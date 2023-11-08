@@ -1,14 +1,14 @@
 {
     "src/pages/home": {
-        "我是一个新的页面": ""
+        "我是一个新的页面": "homehhaha"
     },
     "src/pages/banner": {
-        "向左": "",
-        "向右": ""
+        "向左": "go left",
+        "向右": "goRight"
     },
     "src/pages/dashboard": {},
     "src/common": {
-        "首页": "",
+        "首页": "home",
         "看板": "",
         "广告": "",
         "我是底部的": ""
