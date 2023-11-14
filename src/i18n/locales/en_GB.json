@@ -1,22 +1,22 @@
 {
     "src/pages/home": {
-        "我是一个新的页面": "home noew"
+        "我是一个新的页面": "English"
     },
     "src/pages/banner": {
-        "向左": "go left  hahshhs2312312312312",
-        "向右": "go right hahahha"
+        "向左": "xiangzuozuozzz",
+        "向右": "xiangyouyou"
     },
     "src/pages/dashboard": {
-        "你好": "aaaaaaaaaa",
+        "你好": "",
         "款式详细说明": "",
         "材质详细说明": "",
         "尺寸详细说明": "",
         "我真的是无语：": ""
     },
     "src/common": {
-        "首页": "home",
+        "首页": "",
         "看板": "",
-        "广告": "ad",
+        "广告": "",
         "我是底部的": ""
     }
 }

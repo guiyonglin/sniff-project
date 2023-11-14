@@ -25,7 +25,7 @@ module.exports = {
     isHandleFile: () => {
         return true;
     },
-    locales: ['ja_JP'],
+    locales: ['ja_JP','en_GB'],
     generatorStaticDirName: `${path.join(__dirname, './src/i18n/locales')}`,
     isModifySourceCode: true
 };
